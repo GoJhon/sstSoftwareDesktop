@@ -1,0 +1,112 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: diseno-sfotware-sst.ai
+Modo de color: Color RGB
+Perfil de color: sRGB IEC61966-2.1
+Unidades de regla: píxeles
+Dimensiones de la mesa de trabajo: 816 px x 489 px
+Mostrar imágenes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edición de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes:
+Poppins SemiBold (TrueType)
+Poppins ExtraBold (TrueType)
+Poppins Bold (TrueType)
+Poppins Light (TrueType)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Imágenes enlazadas:
+
+D:\stilos-software\diseno-sfotware-sst_Carpeta\Links\logo-sena-blanco_1.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 1414K, 633 por 572 píxeles
+Dimensiones: 70,404 por 63,619 puntos 
+Resolución: 647,353 por 647,353 píxeles por pulgada
+
+
+D:\stilos-software\diseno-sfotware-sst_Carpeta\Links\logo-sena-blanco_2.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 1414K, 633 por 572 píxeles
+Dimensiones: 324,838 por 293,534 puntos 
+Resolución: 140,304 por 140,304 píxeles por pulgada
+
+
+D:\stilos-software\diseno-sfotware-sst_Carpeta\Links\profesora-fondomdpi.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 1171K, 728 por 412 píxeles
+Dimensiones: 866,748 por 490,522 puntos 
+Resolución: 60,474 por 60,474 píxeles por pulgada
+
+
+D:\stilos-software\diseno-sfotware-sst_Carpeta\Links\logo-sena-blanco.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 1414K, 633 por 572 píxeles
+Dimensiones: 324,838 por 293,534 puntos 
+Resolución: 140,304 por 140,304 píxeles por pulgada
+
+
+D:\stilos-software\diseno-sfotware-sst_Carpeta\Links\logo-sena-blanco.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 1414K, 633 por 572 píxeles
+Dimensiones: 324,838 por 293,534 puntos 
+Resolución: 140,304 por 140,304 píxeles por pulgada
+
+
+D:\stilos-software\diseno-sfotware-sst_Carpeta\Links\profesora-fondomdpi.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 1171K, 728 por 412 píxeles
+Dimensiones: 866,748 por 490,522 puntos 
+Resolución: 60,474 por 60,474 píxeles por pulgada
+
+
+D:\stilos-software\diseno-sfotware-sst_Carpeta\Links\logo-sena-blanco.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 1414K, 633 por 572 píxeles
+Dimensiones: 324,838 por 293,534 puntos 
+Resolución: 140,304 por 140,304 píxeles por pulgada
+
+
+D:\stilos-software\diseno-sfotware-sst_Carpeta\Links\logo-sena-blanco_2.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 1414K, 633 por 572 píxeles
+Dimensiones: 75,376 por 68,112 puntos 
+Resolución: 604,652 por 604,652 píxeles por pulgada
