@@ -58,3 +58,7 @@ C:\jhonNet\software-sst-edwin\2-0\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.
 C:\jhonNet\software-sst-edwin\2-0\WindowsApp1\WindowsApp1\obj\Debug\testSST.exe
 C:\jhonNet\software-sst-edwin\2-0\WindowsApp1\WindowsApp1\obj\Debug\testSST.xml
 C:\jhonNet\software-sst-edwin\2-0\WindowsApp1\WindowsApp1\obj\Debug\testSST.pdb
+C:\jhonNet\software-sst-edwin\2-0\WindowsApp1\WindowsApp1\obj\Debug\testSST.Ejercicio1.resources
+C:\jhonNet\software-sst-edwin\2-0\WindowsApp1\WindowsApp1\obj\Debug\testSST.Ejercicio2.resources
+C:\jhonNet\software-sst-edwin\2-0\WindowsApp1\WindowsApp1\obj\Debug\testSST.Ejercicio3.resources
+C:\jhonNet\software-sst-edwin\2-0\WindowsApp1\WindowsApp1\obj\Debug\testSST.Ejercicio4.resources

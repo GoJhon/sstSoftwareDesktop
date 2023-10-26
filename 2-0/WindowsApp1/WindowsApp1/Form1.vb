@@ -1,9 +1,6 @@
-﻿Imports MySql.Data.MySqlClient
-
+﻿Imports System.Data.SqlClient
 Public Class Form1
-
-    Private conexion As New MySqlConnection("Server=bp80oeapywtl9wk7ydqb-mysql.services.clever-cloud.com;Database=bp80oeapywtl9wk7ydqb;User=uw9i7sr6sfzkeodr;Password=MsoV7P5r4CxkEFVRBZGq;Port=3306;")
-
+    Dim conexion As New SqlConnection("server=DESKTOP-JHU0H9L\SQLEXPRESS;database=;integrated security = true")
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         Try
             conexion.Open()
@@ -18,9 +15,21 @@ Public Class Form1
                 Console.WriteLine("Cerró la conexión")
             End If
         End Try
+
+        'If Double.Parse(cmdTipoDocumento.SelectedItem) = 0 Then
+        'Console.WriteLine("cc fue escogido")
+        'MsgBox("el escogido fue" & cmdTipoDocumento.SelectedItem.ToString)
+
+        'nd If
+        MsgBox("el escogido fue" & cmdTipoDocumento.SelectedItem.ToString)
     End Sub
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        cmdTipoDocumento.FlatStyle = FlatStyle.Flat
+        cmdTipoDocumento.BackColor = Color.White
+        cmdTipoDocumento.ForeColor = Color.Black
+
+        cmdTipoDocumento.SelectedItem = 0
 
     End Sub
 
@@ -30,7 +39,14 @@ Public Class Form1
 
     Private Sub btnIniciar_Click(sender As Object, e As EventArgs)
         Try
+            If cmdTipoDocumento.SelectedItem = 0 Then
+                Console.WriteLine("cc fue escogido")
+
+
+            End If
             Module1.nombre = txtNombre.Text
+            Module1.apellido = txtApellido.Text
+            'Module1.tipoDocumento = txt
             Module1.documento = txtDocumento.Text
             Module1.ficha = txtFicha.Text
             If txtFicha.Text = "" Or txtNombre.Text = "" Or txtDocumento.Text = "" Then
@@ -62,12 +78,22 @@ Public Class Form1
                 MessageBox.Show("Llenar todos los campos correctamente", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Warning)
             Else
                 Dim f2 As New actividad()
-                f2.Show()
+                Dim ejercicio1 As New Ejercicio1()
                 Me.Hide()
+                ejercicio1.Show()
             End If
 
         Catch ex As Exception
             MessageBox.Show("Llenar todos los campos correctamente", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Warning)
         End Try
+    End Sub
+
+    Private Sub ComboBox1_SelectedIndexChanged(sender As Object, e As EventArgs) Handles cmdTipoDocumento.SelectedIndexChanged
+
+
+    End Sub
+
+    Private Sub txtApellido_TextChanged(sender As Object, e As EventArgs) Handles txtApellido.TextChanged
+
     End Sub
 End Class

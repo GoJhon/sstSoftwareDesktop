@@ -97,11 +97,35 @@
     <Compile Include="DashboardResultados.vb">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Ejercicio2.Designer.vb">
+      <DependentUpon>Ejercicio2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio3.Designer.vb">
+      <DependentUpon>Ejercicio3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio4.Designer.vb">
+      <DependentUpon>Ejercicio4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio4.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Form1.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.vb">
       <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Ejercicio1.Designer.vb">
+      <DependentUpon>Ejercicio1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Ejercicio1.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="inicio-sesion.Designer.vb">
@@ -134,6 +158,18 @@
     </EmbeddedResource>
     <EmbeddedResource Include="DashboardResultados.resx">
       <DependentUpon>DashboardResultados.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio1.resx">
+      <DependentUpon>Ejercicio1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio2.resx">
+      <DependentUpon>Ejercicio2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio3.resx">
+      <DependentUpon>Ejercicio3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Ejercicio4.resx">
+      <DependentUpon>Ejercicio4.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.vb</DependentUpon>
